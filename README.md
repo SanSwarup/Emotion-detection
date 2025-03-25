@@ -1,2 +1,2 @@
 # Emotion-detection
-final year project
+Emotion detection through facial expression 
